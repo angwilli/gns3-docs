@@ -26,7 +26,7 @@ VMware fixed the bug related to GNS3 after the official release of 6.5 so make s
 
 ## Download the GNS3 VM
 
-Read this documentation for download links. https://docs.gns3.com/1Bn-s1Izkjp13HxcPF4b8QSGfkWJYG_dpMt9U1DQjvZ4/index.html CHECKLINK
+Read this documentation for download links. https://docs.gns3.com/1Bn-s1Izkjp13HxcPF4b8QSGfkWJYG_dpMt9U1DQjvZ4/index.html CHECKLINK 
 
 :::note
 Be careful to download the ESXi version for VMware and not the Workstation or VirtualBox version.
